@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitverma-01&layout=compact&hide_border=true&theme=radical" />
 </p>
-[![Amit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amitverma-01&theme=rogue)](https://github.com/amitverma-01/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitverma-01&theme=rogue"/>
