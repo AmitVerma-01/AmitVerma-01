@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning DSA and exploring Web-Dev
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me <a href="[https://linkedin.com/in/preeti-chauhan-352101256](https://www.linkedin.com/in/amit-verma-a24038217/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-verma-a24038217" height="30" width="40" /></a>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br/>
 <!---
