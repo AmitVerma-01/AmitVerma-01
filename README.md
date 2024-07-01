@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Amit Verma
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0EF74C&random=false&width=435&lines=Hi+%2C+I'm+Amit+%F0%9F%91%8B;Let's+Connect)](https://git.io/typing-svg)
 - ![h](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning DSA and exploring Web-Dev
