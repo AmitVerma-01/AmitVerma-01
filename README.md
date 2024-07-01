@@ -6,14 +6,14 @@
 - 📫 How to reach me [linkedIn](https://www.linkedin.com/in/amit-verma-a24038217/)
 <br/>
 
-###📈 Stats
+## 📈 Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amitverma-01&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amitverma-01&hide_border=true&theme=radical" />
 </p>
 <br/>
 
-###🔝 Most used languages
+## 🔝 Most used languages
 <p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitverma-01&layout=compact&hide_border=true&theme=radical" />
 </p>
