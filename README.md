@@ -19,3 +19,55 @@
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitverma-01&theme=rogue"/>
 <hr/>
+
+## Languages and Tools I Use 👨🏻‍💻
+
+<table align="center">
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,html,css"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database/ORM/ODM:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,vercel,netlify"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated Testing:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=jest"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,replit"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=,firebase,npm"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
+    </tr>
+</table>
+
+## 📫 How to reach me:
+
+[![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amit-verma-a24038217/)
+[![Contact with me](https://skillicons.dev/icons?i=github)](https://github.com/AmitVerma-01)
+[![Contact with me](https://skillicons.dev/icons?i=twitter)](https://twitter.com/amitvermaup57)
+[![Contact with me](https://skillicons.dev/icons?i=gmail)](mailto:amitverma.dev01@gmail.com)
