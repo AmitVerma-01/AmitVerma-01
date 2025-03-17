@@ -16,19 +16,19 @@
 
 ## 🚀 Projects
 
-- **[MindMapWithFlash](https://github.com/AmitVerma-01/MindMapWithFlash)**  
+- **[MindMapWithFlash](https://github.com/AmitVerma-01/MindMap-with-Flash)**  
   AI-powered flashcard generator for students and teachers.  
   `Next.js` • `TailwindCSS` • `OpenAI` • `PostgreSQL` • `Prisma`
 
-- **[Pantry Tracker](https://github.com/AmitVerma-01/PantryTracker)**  
+- **[Pantry Tracker](https://github.com/AmitVerma-01/pantry-tracker)**  
   Track pantry items and get AI-generated recipe suggestions.  
   `ReactJS` • `Firebase` • `Gemini API`
 
-- **[Email Parser Using AI](https://github.com/AmitVerma-01/EmailParserAI)**  
+- **[Email Parser Using AI](https://github.com/AmitVerma-01/email-parser-responder-using-ai)**  
   AI-based auto-label and reply system for Gmail.  
   `NodeJS` • `Gemini API` • `Gmail API` • `Redis` • `BullMQ`
 
-- **[YouTube Backend](https://github.com/AmitVerma-01/YouTubeBackend)**  
+- **[YouTube Backend](https://github.com/AmitVerma-01/backend)**  
   A full-featured backend system like YouTube's with auth, upload, and search.  
   `NodeJS` • `Express` • `MongoDB` • `Cloudinary`
 
