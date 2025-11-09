@@ -7,9 +7,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **real-time web apps & AI integrations**
-- 🌱 I’m learning **GoLang** and enhancing system design skills
-- 💬 Ask me about **MERN Stack, Prisma, REST APIs, TypeScript**
+💻 I'm Amit Verma, a Full Stack Developer passionate about building scalable web applications and solving real-world problems through clean, efficient code.
+🚀 Skilled in TypeScript, Node.js, React, Next.js, and MongoDB, I love working across the full stack—from backend APIs to polished UIs.
+🌐 Currently exploring Cloud & DevOps to enhance deployment and scalability workflows.
+📚 Always learning, experimenting, and sharing projects that push my technical and creative boundaries.
 - 📫 Reach me at: [amitverma.dev01@gmail.com](mailto:amitverma.dev01@gmail.com)
 
 ---
