@@ -7,11 +7,11 @@
 
 ### 👨‍💻 About Me
 
-💻 I'm Amit Verma, a Full Stack Developer with a strong inclination toward Backend Engineering, passionate about building scalable, production-ready web applications and solving real-world problems with clean, maintainable code.
-🚀 Skilled in TypeScript, Node.js, React, Next.js, MongoDB, and SQL, I enjoy working across the full stack—designing robust APIs, handling background jobs & real-time systems, and delivering polished user experiences.
-⚙️ Experienced with queues, async processing, and system design concepts (BullMQ, Redis, Socket.IO), and focused on writing code that scales beyond MVPs.
-☁️ Currently diving deeper into Cloud & DevOps to improve deployment, performance, and reliability of applications.
-📚 Always learning, building, and sharing projects that push my technical depth and engineering mindset.
+- 💻 I'm Amit Verma, a Full Stack Developer with a strong inclination toward Backend Engineering, passionate about building scalable, production-ready web applications and solving real-world problems with clean, maintainable code.
+- 🚀 Skilled in TypeScript, Node.js, React, Next.js, MongoDB, and SQL, I enjoy working across the full stack—designing robust APIs, handling background jobs & real-time systems, and delivering polished user experiences.
+- ⚙️ Experienced with queues, async processing, and system design concepts (BullMQ, Redis, Socket.IO), and focused on writing code that scales beyond MVPs.
+- ☁️ Currently diving deeper into Cloud & DevOps to improve deployment, performance, and reliability of applications.
+- 📚 Always learning, building, and sharing projects that push my technical depth and engineering mindset.
 - 📫 Reach me at: [amitverma.dev01@gmail.com](mailto:amitverma.dev01@gmail.com)
 
 ---
