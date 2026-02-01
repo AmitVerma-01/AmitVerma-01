@@ -7,10 +7,11 @@
 
 ### 👨‍💻 About Me
 
-💻 I'm Amit Verma, a Full Stack Developer passionate about building scalable web applications and solving real-world problems through clean, efficient code.
-🚀 Skilled in TypeScript, Node.js, React, Next.js, and MongoDB, I love working across the full stack—from backend APIs to polished UIs.
-🌐 Currently exploring Cloud & DevOps to enhance deployment and scalability workflows.
-📚 Always learning, experimenting, and sharing projects that push my technical and creative boundaries.
+💻 I'm Amit Verma, a Full Stack Developer with a strong inclination toward Backend Engineering, passionate about building scalable, production-ready web applications and solving real-world problems with clean, maintainable code.
+🚀 Skilled in TypeScript, Node.js, React, Next.js, MongoDB, and SQL, I enjoy working across the full stack—designing robust APIs, handling background jobs & real-time systems, and delivering polished user experiences.
+⚙️ Experienced with queues, async processing, and system design concepts (BullMQ, Redis, Socket.IO), and focused on writing code that scales beyond MVPs.
+☁️ Currently diving deeper into Cloud & DevOps to improve deployment, performance, and reliability of applications.
+📚 Always learning, building, and sharing projects that push my technical depth and engineering mindset.
 - 📫 Reach me at: [amitverma.dev01@gmail.com](mailto:amitverma.dev01@gmail.com)
 
 ---
@@ -70,11 +71,19 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,html,css"/></td>
     </tr>
     <tr>
-        <td><strong>Database/ORM:</strong></td>
+        <td><strong>Database / ORM:</strong></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma"/></td>
     </tr>
     <tr>
-        <td><strong>DevOps/Hosting:</strong></td>
+        <td><strong>Queues / Realtime:</strong></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=redis,socketio"/>
+            <br/>
+            <img src="https://img.shields.io/badge/BullMQ-Queue-orange?style=flat&logo=redis" />
+        </td>
+    </tr>
+    <tr>
+        <td><strong>DevOps / Hosting:</strong></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=docker,vercel,netlify"/></td>
     </tr>
     <tr>
@@ -98,6 +107,7 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
     </tr>
 </table>
+
 
 ---
 
